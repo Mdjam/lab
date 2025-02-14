@@ -2,3 +2,12 @@
 .private/
 .personal/
 .perso/
+
+# environments
+.env
+.venv
+env/
+venv/
+
+# vagrant
+.vagrant/
